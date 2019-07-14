@@ -1,0 +1,12 @@
+{
+    "type": "postgres",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "username": "dev",
+    "password": "123456",
+    "database": "postgres",
+    "entities": [
+        "src/**/**.entity{.ts,.js}"
+    ],
+    "logging": true
+}

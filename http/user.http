@@ -1,0 +1,15 @@
+@Host = http://127.0.0.1:7001
+
+###
+GET {{Host}}/manage/user HTTP/1.1
+Content-type: application/json
+Cookie: token=s%3A0w2y_Az--29x7jSuBwMF3R5lpV3uhE2X.NDsPxVUnna7trmSBIBCzYy3gNdPkPi92x%2F1oNfu0D7g; Path=/; Expires=Sun, 14 Jul 2019 07:25:19 GMT; HttpOnly
+
+###
+POST {{Host}}/manage/user/login HTTP/1.1
+Content-type: application/json
+
+{
+  "account": "admin",
+  "password": "123456"
+}
