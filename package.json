@@ -21,7 +21,7 @@
         "@nestjs/core": "^6.0.0",
         "@nestjs/jwt": "^6.0.0",
         "@nestjs/passport": "^6.0.0",
-        "@nestjs/platform-express": "^6.0.0",
+        "@nestjs/platform-express": "^9.2.1",
         "@nestjs/typeorm": "^6.0.0",
         "cache-manager": "^2.9.1",
         "cache-manager-redis-store": "^1.5.0",
