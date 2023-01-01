@@ -45,7 +45,7 @@
         "prettier": "^1.16.4",
         "prettier-tslint": "^0.4.2",
         "ts-node": "^8.0.2",
-        "tsconfig-paths": "^3.8.0",
+        "tsconfig-paths": "^3.10.1",
         "tslint": "^5.12.1",
         "tslint-config-egg": "^1.0.0"
     }
