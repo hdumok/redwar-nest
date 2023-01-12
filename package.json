@@ -26,7 +26,7 @@
         "cache-manager": "^2.9.1",
         "cache-manager-redis-store": "^1.5.0",
         "class-transformer": "^0.2.3",
-        "class-validator": "^0.9.1",
+        "class-validator": "^0.14.0",
         "connect-redis": "^3.4.1",
         "moment": "^2.24.0",
         "nestjs-redis": "^1.2.0",
